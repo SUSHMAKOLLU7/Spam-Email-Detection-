@@ -40,3 +40,17 @@ This project detects spam emails using Machine Learning.
 
 python spam\_detection.py
 
+
+
+\## Output Screenshot
+
+output.png
+
+
+
+
+
+
+
+
+
